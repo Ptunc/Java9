@@ -25,6 +25,6 @@ public class java9 {
             else{
             System.out.println("Tamamdır.");
             }
-
+            input.close();
     }
 }
